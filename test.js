@@ -1,1 +1,1 @@
-document.write("<p>JavaScriptのテスト</p>");
+document.write("<p>Hello, World</p>");
