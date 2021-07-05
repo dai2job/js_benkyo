@@ -1,1 +1,2 @@
-document.write("<p>Hello, World</p>");
+var tmp = prompt("Please input");
+document.write(tmp);
